@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">Passionate About Game Development and Design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mberkayersoy" alt="mberkayersoy" /></a> </p>
-
 - 📫 How to reach me **mberkayersoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
