@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mberkayersoy@gmail.com**
 
-- This is my CV [https://drive.google.com/file/d/1zQZ77HKh86S0M--nY6WTNoqvai3H8bYY/view?usp=sharing](https://drive.google.com/file/d/1TtcwsVFhvpalDErG7zzJfCG85HspfkzP/view?usp=sharing)
+- This is my CV [https://drive.google.com/file/d/1zQZ77HKh86S0M--nY6WTNoqvai3H8bYY/view?usp=sharing]( https://drive.google.com/file/d/1fli6v3vKeC5eh0vD7Jpisq5QybJWalkE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
