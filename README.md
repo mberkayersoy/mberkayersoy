@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mberkayersoy@gmail.com**
 
-- This is my Resume [https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX](My Resume)
+- This is my Resume [https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing](https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
