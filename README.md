@@ -6,7 +6,6 @@
 
 - My Portfolio [https://mberkayersoy.github.io/portfolio](https://mberkayersoy.github.io/portfolio)
 - My Resume [https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing](https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing)
-- Itch.io [https://mberkayersoy.itch.io](https://mberkayersoy.itch.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
