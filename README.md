@@ -4,7 +4,7 @@
 - 📫 How to reach me **mberkayersoy@gmail.com**
 
 
-- My Portfolio [https://mberkayersoy.github.io/portfolio](https://mberkayersoy.github.io/portfolio)
+- My Portfolio [https://mberkayersoy.github.io/myportfolio](https://mberkayersoy.github.io/myportfolio)
 - My Resume [https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing](https://drive.google.com/drive/folders/1JtKayBlu71PUZ9B3MT6w5KJ6zSuYPsuX?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
